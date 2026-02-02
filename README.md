@@ -1,16 +1,28 @@
 ## Hi, I’m Ahmed Yusuf 👋
 
-A passionate Software Developer currently focused on building tools for productivity and web-based management systems.
+A Junior Software Developer currently focused on building tools for productivity and web-based management systems.
 
-***
+---
 
-🔭 Current Project: Working on Focus-Space, an app designed for study and planning. This project is for deepening my knowledge of Javascript/Typescript and building & deploying applications, as well as creating something meanful and useful with well optimized solutions.
+### 🔭 Current Project
+I'm currently developing **Focus-Space**, an application designed to optimize study habits and planning. 
+* **Focus:** Deepening my expertise in **JavaScript/TypeScript** and end-to-end application deployment.
+* **Goal:** Creating meaningful, user-centric tools with well-optimized, efficient codebases.
 
-🌱 Learning: On my spare time, I'm learning data structures and algorithms to understand how to manage data effiecently. I believe understanding these fundementals are important in any project.
+### 🌱 Continuous Learning
+In my spare time, I am diving deep into **Data Structures and Algorithms**. I believe mastering these fundamentals is the key to managing data efficiently and building high-performance software.
 
-***
+---
 
-Languages: TypeScript/JavaScript, Python, C#, Java.
-Tools: Linux (Fedora), Playwright, Git.
+### 🛠 Tech Stack
 
-***
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | TypeScript, JavaScript, Python, C#, Java |
+| **Frameworks** | React, React Native, Expo, Next.js, Django, Tailwind CSS |
+| **Tools & OS** | Linux (Fedora), Windows, Playwright, Git, Docker |
+
+---
+
+### 📫 Let's Connect
+* **LinkedIn:** https://www.linkedin.com/in/ahmed-yusuf-sait/
