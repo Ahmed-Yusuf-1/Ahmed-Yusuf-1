@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi, I’m Ahmed Yusuf 👋
 
+A passionate Software Developer currently focused on building tools for productivity and web-based management systems.
 <!--
 **Ahmed-Yusuf-1/Ahmed-Yusuf-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
