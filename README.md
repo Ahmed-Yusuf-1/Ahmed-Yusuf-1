@@ -6,6 +6,8 @@ A passionate Software Developer currently focused on building tools for producti
 
 🌱 Learning: On my spare time, I'm learning data structures and algorithms to understand how to manage data effiecently. I believe understanding these fundementals are important in any project.
 
+***
+
 Languages: TypeScript/JavaScript, Python, C#, Java.
 
 Tools: Linux (Fedora), Playwright, Git.
