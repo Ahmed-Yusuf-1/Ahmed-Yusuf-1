@@ -16,11 +16,16 @@ In my spare time, I am diving deep into **Data Structures and Algorithms**. I be
 
 ### 🛠 Tech Stack
 
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Languages** | TypeScript, JavaScript, Python, C#, Java |
-| **Frameworks** | React, React Native, Expo, Next.js, Django, Tailwind CSS |
-| **Tools & OS** | Linux (Fedora), Windows, Playwright, Git, Docker |
+![My Skills](https://skillicons.dev/icons?i=ts,js,python,cs,java,react,nextjs,django,tailwind,linux,docker,git)
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Yusuf-1&show_icons=true&theme=tokyonight&hide_border=true" alt="Ahmed's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Yusuf-1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+</p>
 
 ---
 
