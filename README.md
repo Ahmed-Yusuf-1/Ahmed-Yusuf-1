@@ -20,14 +20,10 @@ In my spare time, I am diving deep into **Data Structures and Algorithms**. I be
 ### 🛠 Tech Stack
 
 | Category | Tools & Languages |
-
 | :--- | :--- |
-
 | **Languages** | TypeScript, JavaScript, Python, C#, Java |
-
 | **Frameworks** | React, React Native, Expo, Next.js, Django, Tailwind CSS |
-
-| **Tools & OS** | Linux (Fedora), Windows, Playwright, Git, Docker |
+| **Tools & OS** | Linux (Fedora), Playwright, Git, Docker |
 
 ---
 
