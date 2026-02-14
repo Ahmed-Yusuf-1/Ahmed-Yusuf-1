@@ -23,7 +23,7 @@ In my spare time, I am diving deep into **Data Structures and Algorithms**. I be
 | :--- | :--- |
 | **Languages** | TypeScript, JavaScript, Python, C#, Java |
 | **Frameworks** | React, React Native, Expo, Next.js, Django, Tailwind CSS |
-| **Tools & OS** | Linux (Fedora), Playwright, Git, Docker |
+| **Tools & OS** | Windows 11 & Linux (Fedora), Playwright, Git, Docker |
 
 ---
 
